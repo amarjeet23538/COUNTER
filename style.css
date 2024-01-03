@@ -1,0 +1,17 @@
+body{
+    background-color: #FCFC62;
+}
+.container{
+    border: 5px solid black;
+    text-align: center;
+    background-color: rgb(0, 0, 255);
+    width: 350px;
+    height: 350px;
+    margin-top: 200px;
+    border-radius: 8px;
+}
+.counter{
+    margin: 50px;
+}
+
+
